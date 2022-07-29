@@ -1,6 +1,9 @@
 :root {
   --blue: blue;
 
+  --accent: rgba(100, 100, 100, 1);
+  --action-primary: var(--accent);
+
   /* ACTIONS */
   --bg-default: var(--blue);
 }
