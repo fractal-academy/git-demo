@@ -1,3 +1,10 @@
+:root {
+  --blue: blue;
+
+  /* ACTIONS */
+  --bg-default: var(--blue);
+}
+
 .root {
   background: #efefef;
 }
